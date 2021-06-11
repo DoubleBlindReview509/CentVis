@@ -15,3 +15,12 @@ python3 main.py Tribes
 python3 main.py Netscience
 ```
 The eps pictures can be found in **pictures**
+### Draw a graph with the standard force-directed layout
+```shell
+cd code_baseline
+python3 main.py Karate
+python3 main.py Dolphins
+python3 main.py Tribes
+python3 main.py Netscience
+```
+The eps pictures can be found in **pictures_baseline**
